@@ -2,3 +2,5 @@ Dede Repo
 1. Menyelesaikan Skripsi secepatnya
 2. Belajar di Pondok dengan baik
 3. Mengajar di SMK dengan baik
+4. Bisa PHP
+5. Bisa Laravel
